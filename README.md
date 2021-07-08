@@ -23,3 +23,6 @@
    * 태양열 발전량 데이터 전처리
    * LSTM, SVM 방식 적용
 
+
+
+4. stock project setting
